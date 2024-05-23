@@ -178,7 +178,6 @@ class CodeCommitCodeMagic {
       case '.packages':
       case 'android':
       case 'example':
-      case 'a_blup_sdk.7z':
       // case 'web':
       case 'test':
       case 'macos':
